@@ -1,7 +1,7 @@
 # JokenPô 🖐️✌️✊
 
 Um jogo de **Pedra, Papel e Tesoura** (JokenPô) desenvolvido em **HTML, CSS e JavaScript**.  
-A versão online está hospedada no **Netlify**: [Veja Online](projetojonkepo.netlify.app)
+A versão online está hospedada no **Netlify**: projetojonkepo.netlify.app
 
 ---
 
